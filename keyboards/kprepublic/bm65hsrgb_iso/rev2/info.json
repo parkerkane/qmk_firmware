@@ -1,13 +1,13 @@
 {
     "manufacturer": "KP Republic",
-    "keyboard_name": "bm65rgb_iso",
+    "keyboard_name": "BM65RGB ISO",
     "maintainer": "parkerkane",
     "debounce": 5,
     "processor": "atmega32u4",
     "bootloader": "atmel-dfu",
     "usb": {
         "device_version": "0.0.2",
-        "pid": "0x1133",
+        "pid": "0x1134",
         "vid": "0x4B50"
     },
     "diode_direction": "ROW2COL",
